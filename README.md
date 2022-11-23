@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @tatsubonbon. I started programming recently.
-- 👀 I’m interested in making application.
-- 🌱 I’m currently learning swiftUI, Java.
+- 👋 Hi, I’m @tatsubonbon.
+- I started programming 2021.
 
 
 <!---
